@@ -1,4 +1,4 @@
-
+from model_module import process_input
 import streamlit as st
 
 # Set page configuration
